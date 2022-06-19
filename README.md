@@ -6,7 +6,7 @@
 
 </p>
 
-This extension provides a set of tools to help you manage a Docusaurus project.
+This extension provides a set of tools to help you manage a project created with the [Docusaurus](https://docusaurus.io).
 
 ## Features
 
